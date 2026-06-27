@@ -36,8 +36,8 @@ In this repositories you will find:
 - Networking and security practice work
 - My learning journey and experiments
 
-📡 Telegram Channel: (your link here)  
-📧 Business Email: (your email here)
+📡 Telegram Channel: @ZerynxITComputer  
+📧 Business Email: officialzerynx@gmail.com
 
 ---
 
